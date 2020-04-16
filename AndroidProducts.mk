@@ -5,9 +5,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/arrow_violet.mk
+    $(LOCAL_DIR)/validus_violet.mk
 
 COMMON_LUNCH_CHOICES := \
-    arrow_violet-user \
-    arrow_violet-userdebug \
-    arrow_violet-eng
+    validus_violet-user \
+    validus_violet-userdebug \
+    validus_violet-eng
